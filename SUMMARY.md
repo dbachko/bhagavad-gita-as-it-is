@@ -8,8 +8,7 @@
 
 ### Part I
 
-* [Writing is nice](part1/writing.md)
-* [GitBook is nice](part1/gitbook.md)
+* [Writing is nice](ch1/README.md)
 
 ### Part II
 
