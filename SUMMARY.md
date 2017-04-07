@@ -4,8 +4,6 @@
 * [First Chapter](chapter1.md)
 * [Second Chapter](second-chapter.md)
 
-# Summary
-
 ### Part I
 
 * [Writing is nice](ch1/README.md)
