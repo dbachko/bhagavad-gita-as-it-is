@@ -7,9 +7,9 @@
       "edit-link": {
         "base": "https://github.com/dbachko/bg-ru/edit/master/",
         "label": "Edit This Page"
+      },
+      "lunr": {
+          "maxIndexSize": 1000000000
       }
-  },
-  "search": {
-    "maxIndexSize": 1000000000
   }
 }
