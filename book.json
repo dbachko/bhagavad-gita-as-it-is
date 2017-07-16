@@ -1,8 +1,7 @@
 {
   "plugins": [
     "toggle-chapters",
-    "edit-link",
-    "wrapper"
+    "edit-link"
   ],
   "pluginsConfig": {
       "edit-link": {
